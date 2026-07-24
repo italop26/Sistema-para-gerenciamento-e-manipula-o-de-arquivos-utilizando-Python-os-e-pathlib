@@ -1,0 +1,1 @@
+# Sistema-para-gerenciamento-e-manipula-o-de-arquivos-utilizando-Python-os-e-pathlib
